@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="titulo">SHOPPING LIST</string>
+    <string name="agregar">Add</string>
+    <string name="volver">Return</string>
+</resources>

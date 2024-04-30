@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compras</string>
+    <string name="titulo">LISTA DE COMPRAS</string>
+    <string name="agregar">Agregar</string>
+    <string name="volver">Volver</string>
+</resources>
